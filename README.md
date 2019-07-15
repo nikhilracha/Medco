@@ -8,3 +8,16 @@ It has 2 modules
                      
 This repo is just a prototype of an abstract idea.
 You can check out the screenshots of the project down below.
+
+1. Mobile Application 
+
+<img src="/demo/Medco-CLIENT1.jpeg" height="500"> &nbsp; &nbsp; <img src="/demo/MEDCO-CLIENT2.jpeg" height="500"> &nbsp; &nbsp; <img src="/demo/MEDCO-CLIENT3.jpeg" height="500">
+<img src="/demo/Medco-app.gif" height="500">
+
+2. Web Panel
+
+<img src="/demo/Panel-Login.png" height="500"> 
+<img src="/demo/Doctor-Dashboard.png" height="500"> 
+<img src="/demo/Doctor-prescription-coponent.png" height="500">
+<img src="/demo/Medical-Vendor-Dashboard.png" height="500">
+
